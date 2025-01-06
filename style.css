@@ -41,3 +41,10 @@ footer {
   background: #333;
   color: #fff;
 }
+
+#logo {
+  width: 100px; /* Passe die Breite nach Bedarf an */
+  height: auto; /* Stellt sicher, dass das Logo im richtigen Verhältnis bleibt */
+  display: block; /* Verhindert, dass es in einer Zeile mit Text angezeigt wird */
+  margin: 0 auto; /* Zentriert das Logo */
+}
